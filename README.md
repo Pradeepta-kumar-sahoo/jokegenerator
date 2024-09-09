@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# jokegenerator
+This Random Joke Generator app brings humor to your day by fetching and displaying random jokes with a simple click. Each joke is dynamically generated from an external API, offering endless laughter with new jokes every time you hit the 'Next' button.
+>>>>>>> 909c27f48e62c694cfc3cffda9c7041dfd67aaab
